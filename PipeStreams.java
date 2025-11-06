@@ -31,7 +31,5 @@ public class PipeStreams {
                     e.printStackTrace();
                 }}).start();
             }
-     
-        // Implementation for PipeStreams can be added here
     }
 }
